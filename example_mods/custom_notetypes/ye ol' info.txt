@@ -1,0 +1,39 @@
+Note Info:
+
+DODGE
+
+- Hit
+Doesn't add any health
+
+- Miss
+Kills the player
+
+HEAL
+
+- Hit
+Adds lots of health
+
+- Miss
+Nothing
+
+INSTANOTE
+
+- Hit
+Kills Player
+
+- Miss
+Nothing
+
+POISON
+(WIP)
+
+SUREHIT
+
+- Hit
+Hurts the player
+
+- Miss
+Kills the player
+
+(To kill the player when they're on low health to
+make the chart more difficult)

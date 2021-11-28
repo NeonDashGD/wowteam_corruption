@@ -1,0 +1,43 @@
+{
+	"storyName": "1 Left.",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				160,
+				209,
+				255
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Dad Battle",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 5"
+}

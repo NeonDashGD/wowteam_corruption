@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFSOUL.png"><SubTexture name="BFSOUL idle0000" x="0" y="0" width="408" height="492" frameX="0" frameY="0" frameWidth="408" frameHeight="492" />
+<SubTexture name="BFSOUL idle0001" x="408" y="0" width="405" height="491" frameX="0" frameY="0" frameWidth="405" frameHeight="491" />
+<SubTexture name="BFSOUL idle0002" x="813" y="0" width="394" height="494" frameX="0" frameY="0" frameWidth="394" frameHeight="494" />
+<SubTexture name="BFSOUL idle0003" x="0" y="494" width="386" height="485" frameX="0" frameY="0" frameWidth="386" frameHeight="485" />
+<SubTexture name="BFSOUL idle0004" x="386" y="494" width="401" height="488" frameX="0" frameY="0" frameWidth="401" frameHeight="488" />
+<SubTexture name="BFSOUL idle0005" x="787" y="494" width="410" height="490" frameX="0" frameY="0" frameWidth="410" frameHeight="490" />
+<SubTexture name="BFSOUL down0000" x="0" y="984" width="577" height="488" frameX="0" frameY="0" frameWidth="577" frameHeight="488" />
+<SubTexture name="BFSOUL down0001" x="577" y="984" width="583" height="488" frameX="0" frameY="0" frameWidth="583" frameHeight="488" />
+<SubTexture name="BFSOUL left0000" x="1160" y="984" width="553" height="507" frameX="0" frameY="0" frameWidth="553" frameHeight="507" />
+<SubTexture name="BFSOUL left0001" x="0" y="1491" width="551" height="503" frameX="0" frameY="0" frameWidth="551" frameHeight="503" />
+<SubTexture name="BFSOUL right0000" x="551" y="1491" width="505" height="524" frameX="0" frameY="0" frameWidth="505" frameHeight="524" />
+<SubTexture name="BFSOUL right0001" x="1056" y="1491" width="496" height="532" frameX="0" frameY="0" frameWidth="496" frameHeight="532" />
+<SubTexture name="BFSOUL up0000" x="0" y="2023" width="456" height="562" frameX="0" frameY="0" frameWidth="456" frameHeight="562" />
+<SubTexture name="BFSOUL up0001" x="456" y="2023" width="459" height="561" frameX="0" frameY="0" frameWidth="459" frameHeight="561" />
+<SubTexture name="BFSOUL up0002" x="915" y="2023" width="452" height="562" frameX="0" frameY="0" frameWidth="452" frameHeight="562" />
+</TextureAtlas>

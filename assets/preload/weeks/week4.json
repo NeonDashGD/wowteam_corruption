@@ -1,0 +1,43 @@
+{
+	"storyName": "Game is also CORRUPTION",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "week2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"senpai",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"Senpai",
+			"senpai-pixel",
+			[
+				252,
+				150,
+				215
+			]
+		],
+		[
+			"Roses",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Thorns",
+			"senpai-pixel",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 4"
+}

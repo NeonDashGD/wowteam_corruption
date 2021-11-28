@@ -1,0 +1,52 @@
+{
+	"storyName": "???",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week4",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Cocoa",
+			"oldbf",
+			[
+				255,
+				120,
+				191
+			]
+		],
+		[
+			"Eggnog",
+			"oldbf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Winter Horrorland",
+			"oldbf",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"end",
+			"tankman",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 6"
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "BF_MONITOR idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "headache",
+			"fps": 10,
+			"name": "BF_MONITOR headache",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "static",
+			"fps": 10,
+			"name": "BF_MONITOR static",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BF_MONITOR",
+	"position": [
+		-150,
+		-50
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-280,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.00000000000001
+}

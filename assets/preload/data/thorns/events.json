@@ -1,0 +1,5043 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": null,
+		"player1": "bf-pixel",
+		"player2": "spirit",
+		"player3": "gf-pixel",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						0,
+						-1,
+						"Change Character",
+						"2",
+						"empty"
+					],
+					[
+						947.368421052632,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						10578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						10657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						11210.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						12789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						13263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						13657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						14131.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						14684.2105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						14842.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						15000,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						15315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						15789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						16184.2105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						16657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						16973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						17131.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						17289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						17605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						18078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						18473.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						18789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20131.5789473684,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						19342.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						19657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						19973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						20447.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						20842.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						21236.8421052632,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						21710.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						22026.3157894737,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						22421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						22815.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						23289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						23763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						24236.8421052632,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						24473.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						24789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						25263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						25657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						26052.6315789474,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						26605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						26921.052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						27236.8421052632,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						27710.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						28026.3157894737,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						28500,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						28973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						29763.1578947369,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						29289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						29605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						30078.9473684211,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						30710.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						31342.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						31973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						32526.3157894737,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						33078.9473684211,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						33710.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						34736.8421052632,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						35052.6315789474,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						35289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						35526.3157894737,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						35684.2105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						35921.052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						36078.9473684211,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						36315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						36473.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						36710.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						36868.4210526316,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						37105.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						37263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						37421.052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						37578.9473684211,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						37815.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						37973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						38210.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						38368.4210526316,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						38605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						38763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						38921.052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						39157.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						39315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						39552.6315789474,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						39710.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						39947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						40105.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						40263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						40421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						40657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						40894.7368421053,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						41131.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						41289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						41447.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						41684.2105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						41842.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						42078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						42236.8421052632,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						42394.7368421053,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						42631.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						42789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						43026.3157894737,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						43263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						43421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						43657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						43973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						44131.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						44526.3157894737,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						45000,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						45157.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						45394.7368421053,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						45552.6315789474,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						45789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						45947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						46184.2105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						46342.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						46578.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						46815.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						46973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						47210.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						47368.4210526316,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						47605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						47763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						48947.3684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49026.3157894737,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						48157.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						48473.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						48710.5263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						50368.4210526316,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49263.1578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49342.1052631579,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49421.0526315789,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49500,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49657.8947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49736.8421052631,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49815.7894736842,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49973.6842105263,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						50052.6315789474,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						50131.5789473684,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						50210.5263157895,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						50289.4736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						49815.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						51394.7368421052,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						50842.1052631579,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						51000,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						51157.8947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						51315.7894736842,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						51394.7368421052,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						51552.6315789474,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						50921.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						51394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						51868.4210526316,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						52026.3157894737,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						52105.2631578947,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						52263.1578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						52421.0526315789,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						52578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						52815.7894736842,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						51947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						52973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						53052.6315789473,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						53052.6315789473,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						53210.5263157895,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						53289.4736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						53447.3684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						53684.2105263158,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						53842.1052631579,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						54000,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						54078.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						53131.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						53684.2105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						54315.7894736842,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						54631.5789473684,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						54789.4736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						54947.3684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						55105.2631578947,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						55342.1052631579,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						55973.6842105263,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						55578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						55657.8947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						55815.7894736842,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						55894.7368421052,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						55973.6842105263,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						56210.5263157894,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						56289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						56368.4210526316,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						57473.6842105263,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						56921.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						57000,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						57394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						57552.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						57947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58342.1052631579,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						58657.8947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						58105.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						58578.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						59684.2105263158,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						59447.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						59842.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						60315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						60473.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						60631.5789473684,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						61342.1052631579,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						60631.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						60710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						60789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						61105.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						61263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						61421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						61500,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						61736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						63000,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						62447.3684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						61894.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						62289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						62684.2105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						62763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						62842.1052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						62921.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64342.1052631578,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						63157.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63552.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63631.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63789.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63868.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						63947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64026.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						65605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64500,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64578.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64657.8947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64815.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						64973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						65052.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						65131.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						65210.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						65368.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						65447.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						65526.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						65763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						66000,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						66078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						66236.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						66315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						66552.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						66631.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						66710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67026.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67184.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67342.1052631578,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67500,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						67973.6842105263,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						68052.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						68210.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						68289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						68368.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						68526.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						68605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						68684.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						69078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						69157.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						69315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						69552.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						69631.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						69710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						69947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70026.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70105.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70184.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70342.1052631578,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70499.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70578.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71605.2631578947,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						70736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						70815.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71052.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71131.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71210.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71368.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71447.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71526.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71684.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						71763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71999.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						72078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						72315.7894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						72394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						72552.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						72631.5789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						72710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						72947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						73973.6842105263,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						73342.1052631578,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						73421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						73499.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						73736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						73894.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						74052.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						74210.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						74289.4736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						75315.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						75710.5263157894,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						74526.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						74605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						74684.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						74763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						74921.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						75078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						75236.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						75315.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						75394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						75552.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						75789.4736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						75868.4210526315,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						76026.3157894736,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						76105.2631578947,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						76342.1052631578,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						76578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						76736.8421052631,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						76815.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						76815.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						77131.5789473684,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						77289.4736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						77447.3684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						77605.2631578947,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						77763.1578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						77999.9999999999,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						77571.7105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						78473.6842105262,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						78552.6315789473,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						78710.5263157894,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						78789.4736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						78868.4210526315,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						78947.3684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79026.3157894736,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79184.2105263157,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79263.1578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79342.1052631578,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79421.0526315789,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						79657.894736842,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79815.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79973.6842105262,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						80131.5789473684,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						80368.4210526315,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						80684.2105263157,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						80763.1578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						79946.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						81078.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						81236.8421052631,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						81315.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						81631.5789473683,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						81631.5789473683,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						81947.3684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						82026.3157894736,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						81049.3421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						81149.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						81809.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						82184.2105263157,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						82342.1052631578,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						82421.0526315789,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						82578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						82736.8421052631,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						82815.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						83368.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83447.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83526.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83605.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83763.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83842.1052631578,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83921.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						83999.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84157.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84236.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84315.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						85736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84631.5789473683,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84789.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						84947.3684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						85105.2631578947,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						85263.1578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						85421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						85578.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87078.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						85894.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						86052.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						86289.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						86526.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						86684.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						86842.1052631578,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87473.6842105262,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						88263.1578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						87157.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						87236.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						87315.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						87394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						87473.6842105262,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						87710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						87947.3684210525,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						88184.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						88815.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						89289.4736842104,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						89605.2631578946,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						88499.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						88657.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						88736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						88815.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						89052.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						89210.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						89289.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						89763.1578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						90078.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						90473.6842105262,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						89999.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						90078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						90236.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						90394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						90473.6842105262,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						90710.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						90789.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						91105.2631578946,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						91499.9999999999,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						92052.6315789473,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						91026.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91105.2631578946,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91184.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91421.0526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91499.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91578.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91815.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91894.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						91973.6842105262,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						92447.3684210525,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						92921.0526315789,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						93236.8421052631,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						92210.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						92289.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						92368.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						93631.5789473683,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						93789.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						94184.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						94263.1578947367,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						94342.1052631578,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						94499.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94736.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						94894.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						94973.6842105262,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						95052.6315789473,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						95289.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						95368.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						95447.3684210525,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						95605.2631578946,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						95684.2105263157,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						95763.1578947367,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						96315.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						96315.7894736841,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						96868.4210526315,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						97105.2631578946,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						97184.2105263157,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						96157.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						96315.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						96789.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						97342.1052631578,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						98289.4736842104,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						98447.3684210525,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						97421.0526315788,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						97657.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						97894.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						98210.5263157894,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						98289.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98526.3157894736,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						98763.1578947367,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						98999.9999999999,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99157.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99236.8421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99315.7894736841,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99394.7368421052,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99473.6842105262,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100894.736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99789.4736842104,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99868.4210526315,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						99947.3684210525,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						100026.315789474,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						100105.263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						100421.052631579,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						100578.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						100815.789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						101289.47368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						102157.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						101131.578947368,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						101210.526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						101368.421052631,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						101447.368421053,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						101526.315789474,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						101684.210526316,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						101842.105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						102394.736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						102473.684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						102631.578947368,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						103263.157894737,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						103500,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						102710.526315789,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						102789.47368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						103894.736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						104210.526315789,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						104605.263157895,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						104684.210526316,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						104763.157894737,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						104447.368421053,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						104526.315789474,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						104921.052631579,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						105236.842105263,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						105552.631578947,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						105868.421052631,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						105000,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						105473.684210526,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						106184.210526316,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106500,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106578.947368421,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106657.894736842,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106736.842105263,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106815.789473684,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106894.736842105,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106973.684210526,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						107052.631578947,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						107210.526315789,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						106105.263157895,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						106342.105263158,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107368.421052631,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						107447.368421053,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						107526.315789474,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						107605.263157895,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						107842.105263158,
+						-1,
+						"Trigger BG Ghouls",
+						"",
+						""
+					],
+					[
+						108000,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						108078.947368421,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						108157.894736842,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						108315.789473684,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					],
+					[
+						108394.736842105,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						109500,
+						-1,
+						"HealthDrain",
+						"1",
+						"2"
+					]
+				],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 0,
+				"changeBPM": false,
+				"mustHitSection": false
+			}
+		],
+		"splashSkin": null,
+		"validScore": false,
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Thorns"
+	}
+}

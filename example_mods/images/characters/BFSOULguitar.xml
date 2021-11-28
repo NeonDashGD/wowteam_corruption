@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFSOULguitar.png"><SubTexture name="BFSOULguitar shreddin0000" x="0" y="0" width="615" height="512" frameX="0" frameY="0" frameWidth="615" frameHeight="512" />
+<SubTexture name="BFSOULguitar shreddin0001" x="615" y="0" width="617" height="516" frameX="0" frameY="0" frameWidth="617" frameHeight="516" />
+<SubTexture name="BFSOULguitar shreddin0002" x="1232" y="0" width="606" height="510" frameX="0" frameY="0" frameWidth="606" frameHeight="510" />
+<SubTexture name="BFSOULguitar shreddin0003" x="0" y="516" width="616" height="511" frameX="0" frameY="0" frameWidth="616" frameHeight="511" />
+<SubTexture name="BFSOULguitar shreddin0004" x="616" y="516" width="616" height="510" frameX="0" frameY="0" frameWidth="616" frameHeight="510" />
+<SubTexture name="BFSOULguitar shreddin0005" x="1232" y="516" width="603" height="508" frameX="0" frameY="0" frameWidth="603" frameHeight="508" />
+<SubTexture name="BFSOULguitar up0000" x="0" y="1027" width="533" height="528" frameX="0" frameY="0" frameWidth="533" frameHeight="528" />
+<SubTexture name="BFSOULguitar up0001" x="533" y="1027" width="532" height="527" frameX="0" frameY="0" frameWidth="532" frameHeight="527" />
+<SubTexture name="BFSOULguitar up0002" x="1065" y="1027" width="483" height="544" frameX="0" frameY="0" frameWidth="483" frameHeight="544" />
+<SubTexture name="BFSOULguitar up0003" x="0" y="1571" width="481" height="542" frameX="0" frameY="0" frameWidth="481" frameHeight="542" />
+<SubTexture name="BFSOULguitar up0004" x="481" y="1571" width="485" height="546" frameX="0" frameY="0" frameWidth="485" frameHeight="546" />
+</TextureAtlas>

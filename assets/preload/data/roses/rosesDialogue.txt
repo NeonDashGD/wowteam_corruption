@@ -1,0 +1,10 @@
+:dad:... 
+:dad:sabes que.
+:dad:Ya no me importa.
+:dad:Toma a la chica y sal de aquí.
+:dad:He visto el mundo por ahí, ya no quiero salir de este lugar.
+:dad:Sólo.
+:dad:Vete.
+:bf:delete("\assets\data\senpai"); eliminar("\weeb\senpai.png"); delete("\Senpai_Voices.ogg:); delete("FUNKIN. EXE');
+:dad:...
+:bf:ERROR: UnauthorizedAccessException ("No tiene acceso a ese comando. El administrador actual es SENPAI.DATA")
